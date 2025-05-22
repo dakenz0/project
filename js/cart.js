@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return;
     }
 
-    // Синхронизация с db.json
+
     try {
         const response = await fetch(`${API_URL}/users/${user.id}`);
         if (!response.ok) throw new Error('Ошибка синхронизации пользователя');
@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     throw new Error('Ошибка при созданий заказа');
                 }
 
-                // Перемещаем товары из корзины в owned_items
+
                 const updatedOwnedItems = [...(user.owned_items || []), ...user.cart];
                 const userUpdateResponse = await fetch(`${API_URL}/users/${user.id}`, {
                     method: 'PATCH',
@@ -157,7 +157,7 @@ function renderOwnedItems() {
 async function removeFromCart(id, size) {
     const user = JSON.parse(localStorage.getItem('user'));
     let cart = user.cart || [];
-    // Удаляем товар по id (как число) и размеру
+
     cart = cart.filter(item => !(parseInt(item.id) === parseInt(id) && item.size === size));
     try {
         const response = await fetch(`${API_URL}/users/${user.id}`, {

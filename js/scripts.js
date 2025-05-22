@@ -1,6 +1,6 @@
 const API_URL = 'http://localhost:3000';
 
-// Hamburger menu toggle
+
 document.addEventListener('DOMContentLoaded', async () => {
     const menuToggle = document.getElementById('menu-toggle');
     const navMenu = document.getElementById('nav-menu');
@@ -12,10 +12,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     }
 
-    // Update auth link based on login status
+
     await updateAuthLink();
 
-    // Fetch products for index page
+
     if (document.getElementById('product-grid')) {
         fetch(`${API_URL}/products`)
             .then(response => response.json())
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             });
     }
 
-    // Contact form validation
+
     const contactForm = document.getElementById('contact-form');
     if (contactForm) {
         contactForm.addEventListener('submit', (e) => {
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     }
 
-    // Login/Register form handling
+
     const loginForm = document.getElementById('login-form');
     const registerForm = document.getElementById('register-form');
     const showRegister = document.getElementById('show-register');
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
-// Display products
+
 function displayProducts(products) {
     const productGrid = document.getElementById('product-grid');
     if (!productGrid) return;
@@ -148,8 +148,8 @@ function displayProducts(products) {
     productGrid.innerHTML = '';
     products.forEach(product => {
         const productCard = document.createElement('article');
-        // Update class names to use Tailwind CSS
-        productCard.className = 'bg-white rounded-lg shadow-md p-4 flex flex-col'; // Added flex-col for better layout
+
+        productCard.className = 'bg-white rounded-lg shadow-md p-4 flex flex-col'; 
         productCard.setAttribute('role', 'article');
         productCard.setAttribute('aria-label', `Товар: ${product.name}`);
         productCard.innerHTML = `
@@ -167,7 +167,7 @@ function displayProducts(products) {
         productGrid.appendChild(productCard);
     });
 
-    // Add to cart
+
     document.querySelectorAll('.btn-primary[data-id]').forEach(btn => {
         btn.addEventListener('click', async () => {
             const user = JSON.parse(localStorage.getItem('user'));
@@ -176,21 +176,19 @@ function displayProducts(products) {
                 window.location.href = 'login.html';
                 return;
             }
-            // Перенаправляем на страницу товара для выбора размера
             const id = btn.dataset.id;
             window.location.href = `product.html?id=${id}`;
         });
     });
 }
 
-// Update auth link
+
 async function updateAuthLink() {
     const authLink = document.getElementById('auth-link');
     if (!authLink) return;
 
     const user = JSON.parse(localStorage.getItem('user'));
     if (user) {
-        // Синхронизация с сервером
         try {
             const response = await fetch(`${API_URL}/users/${user.id}`);
             if (response.ok) {
@@ -214,7 +212,7 @@ async function updateAuthLink() {
     }
 }
 
-// Smooth scroll
+
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', (e) => {
         e.preventDefault();
@@ -226,7 +224,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Tailwind custom classes
+
 tailwind.config = {
     theme: {
         extend: {
