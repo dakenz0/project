@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SneakerShop - Детали товара</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-100 font-poppins flex flex-col min-h-screen">
+
+    <header class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white sticky top-0 z-10">
+        <nav class="container mx-auto p-4 flex justify-between items-center">
+            <h1 class="text-2xl font-bold">SneakerShop</h1>
+            <button id="menu-toggle" class="md:hidden focus:outline-none" aria-label="Открыть меню" aria-expanded="false">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                </svg>
+            </button>
+            <ul id="nav-menu" class="hidden md:flex space-x-6">
+                <li><a href="index.html" class="hover:text-indigo-200 transition">Главная</a></li>
+                <li><a href="cart.html" class="hover:text-indigo-200 transition">Корзина</a></li>
+                <li><a href="about.html" class="hover:text-indigo-200 transition">О нас</a></li>
+                <li><a href="contact.html" class="hover:text-indigo-200 transition">Контакты</a></li>
+                <li><a href="login.html" id="auth-link" class="hover:text-indigo-200 transition">Войти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <main class="container mx-auto p-6 flex-1">
+        <section id="product-detail" class="bg-white rounded-lg shadow-md p-6"></section>
+    </main>
+
+
+    <footer class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white p-4 text-center">
+        <p>© 2025 SneakerShop. Все права защищены.</p>
+    </footer>
+
+
+    <script src="js/scripts.js"></script>
+    <script src="js/product.js"></script>
+</body>
+</html>

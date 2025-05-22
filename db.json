@@ -1,0 +1,1588 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Adidas Superstar Vintage White Black",
+      "brand": "Adidas",
+      "price": 17566,
+      "image": "https://cdn-images.farfetch-contents.com/29/65/24/24/29652424_59102420_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        43,
+        44,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "2",
+      "name": "Asics Yeezy Boost 241",
+      "brand": "Asics",
+      "price": 17562,
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7446662372.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        44,
+        45
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "3",
+      "name": "New Balance Disruptor 271",
+      "brand": "New Balance",
+      "price": 13892,
+      "image": "https://newbalance.kz/upload/resize_cache/iblock/71b/992_992_2/U1906WFE_D_2.jpg",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "4",
+      "name": "Asicis Gel-Kayano 837",
+      "brand": "Asics",
+      "price": 6056,
+      "image": "https://cdn-images.farfetch-contents.com/20/76/79/16/20767916_50868138_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        43,
+        44,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Asics с амортизацией Boost."
+    },
+    {
+      "id": "5",
+      "name": "Puma RS-X Toys",
+      "brand": "Puma",
+      "price": 12798,
+      "image": "https://cdn-images.farfetch-contents.com/14/14/72/70/14147270_18767492_2048.jpg",
+      "sizes": [
+        38,
+        39,
+        42,
+        44,
+        45
+      ],
+      "description": "Модные кроссовки Puma для спорта и города."
+    },
+    {
+      "id": "6",
+      "name": "Puma Rs-X Core-белый черный",
+      "brand": "Puma",
+      "price": 12272,
+      "image": "https://i.ebayimg.com/images/g/VwAAAOSw5eNeDU3E/s-l1600.png",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        44
+      ],
+      "description": "Модные кроссовки Puma для спорта и города."
+    },
+    {
+      "id": "7",
+      "name": "adidas Yeezy Boost 350 V2 Oreo",
+      "brand": "Adidas",
+      "price": 10858,
+      "image": "https://cdn-images.farfetch-contents.com/12/96/03/30/12960330_13486514_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        43,
+        44
+      ],
+      "description": "Кроссовки Adidas — сочетание стиля и технологий."
+    },
+    {
+      "id": "8",
+      "name": "Nike Air Max Plus",
+      "brand": "Nike",
+      "price": 13741,
+      "image": "https://cdn-images.farfetch-contents.com/19/44/67/07/19446707_43279698_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        42,
+        44
+      ],
+      "description": "Ультрасовременные кроссовки Nike с амортизацией Boost."
+    },
+    {
+      "id": "9",
+      "name": "Puma Nano RDR Odyssey",
+      "brand": "Puma",
+      "price": 10172,
+      "image": "https://cdn-images.farfetch-contents.com/19/33/37/07/19333707_42463734_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        44
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "10",
+      "name": "New Balance Fresh Foam X 1080 Utility",
+      "brand": "New Balance",
+      "price": 16289,
+      "image": "https://cdn-images.farfetch-contents.com/25/53/98/64/25539864_55635497_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        43,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "11",
+      "name": "Puma Velophasis",
+      "brand": "Puma",
+      "price": 16750,
+      "image": "https://cdn-images.farfetch-contents.com/25/76/87/20/25768720_57226560_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        43,
+        44,
+        45
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "12",
+      "name": "Under Armour Forge 96 Track",
+      "brand": "Under Armour",
+      "price": 17971,
+      "image": "https://cdn-images.farfetch-contents.com/14/72/27/40/14722740_23340476_1000.jpg",
+      "sizes": [
+        38,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "13",
+      "name": "Under Armour",
+      "brand": "Under Armour",
+      "price": 15740,
+      "image": "https://cdn-images.farfetch-contents.com/23/90/35/15/23903515_58888924_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        41,
+        42,
+        45
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "14",
+      "name": "New Balance Aimé Leon Dore",
+      "brand": "New Balance",
+      "price": 10034,
+      "image": "https://cdn-images.farfetch-contents.com/14/81/44/88/14814488_23923840_1000.jpg",
+      "sizes": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "15",
+      "name": "Reebok Instapump Fury OB",
+      "brand": "Reebok",
+      "price": 10815,
+      "image": "https://cdn-images.farfetch-contents.com/14/32/25/81/14322581_20752503_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        42,
+        45
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "16",
+      "name": "New Balance Bodega",
+      "brand": "New Balance",
+      "price": 7386,
+      "image": "https://cdn-images.farfetch-contents.com/14/10/65/98/14106598_18626653_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "17",
+      "name": "adidas Yeezy",
+      "brand": "Adidas",
+      "price": 15076,
+      "image": "https://cdn-images.farfetch-contents.com/14/55/35/62/14553562_22157240_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "18",
+      "name": "Under Armour Velociti 4",
+      "brand": "Under Armour",
+      "price": 13174,
+      "image": "https://cdn-images.farfetch-contents.com/27/06/36/96/27063696_57298465_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        45
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "19",
+      "name": "Asics Gel-Kayano 14 Pure Gold/Cold Moss",
+      "brand": "Asics",
+      "price": 17683,
+      "image": "https://cdn-images.farfetch-contents.com/25/14/55/44/25145544_57694211_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        43,
+        44,
+        45
+      ],
+      "description": "Культовые кроссовки Asics в винтажном стиле."
+    },
+    {
+      "id": "20",
+      "name": "New Balance 574 Legacy",
+      "brand": "New Balance",
+      "price": 12316,
+      "image": "https://cdn-images.farfetch-contents.com/23/79/90/19/23799019_53898742_1000.jpg",
+      "sizes": [
+        40,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "21",
+      "name": "Under Armour",
+      "brand": "Under Armour",
+      "price": 6723,
+      "image": "https://cdn-images.farfetch-contents.com/23/50/98/06/23509806_58267081_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        43,
+        45
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "22",
+      "name": "Puma Nano Odyssey",
+      "brand": "Puma",
+      "price": 9768,
+      "image": "https://cdn-images.farfetch-contents.com/22/80/18/37/22801837_57210558_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        41,
+        43,
+        44
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "23",
+      "name": "Under Armour",
+      "brand": "Under Armour",
+      "price": 13662,
+      "image": "https://cdn-images.farfetch-contents.com/24/17/70/58/24177058_58267973_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        43,
+        45
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "24",
+      "name": "Fila x Kith x Tommy Hilfiger BBall LUX",
+      "brand": "Fila",
+      "price": 8123,
+      "image": "https://cdn-images.farfetch-contents.com/14/43/11/62/14431162_23189878_1000.jpg",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Fila кроссовки x Kith x Tommy Hilfiger BBall LUX"
+    },
+    {
+      "id": "25",
+      "name": "Nike Air Force 1",
+      "brand": "Nike",
+      "price": 17632,
+      "image": "https://cdn-images.farfetch-contents.com/14/22/62/00/14226200_58767651_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        42,
+        43,
+        44
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "26",
+      "name": "Adidas LXCON",
+      "brand": "Adidas",
+      "price": 17793,
+      "image": "https://cdn-images.farfetch-contents.com/14/41/96/84/14419684_21014123_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        41,
+        42,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "27",
+      "name": "Adidas Torsion Phantom",
+      "brand": "Adidas",
+      "price": 7107,
+      "image": "https://cdn-images.farfetch-contents.com/24/99/25/73/24992573_55544153_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        44
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "28",
+      "name": "Nike Cortez Forrest Gump (2024)",
+      "brand": "Nike",
+      "price": 8140,
+      "image": "https://cdn-images.farfetch-contents.com/26/90/02/15/26900215_56911779_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        42,
+        44
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "29",
+      "name": "Nike Air Force 1 Low",
+      "brand": "Nike",
+      "price": 10614,
+      "image": "https://cdn-images.farfetch-contents.com/18/76/90/29/18769029_40595635_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        42,
+        43,
+        44
+      ],
+      "description": "Nike кроссовки Air Force 1 Low из коллаборации с Louis Vuitton"
+    },
+    {
+      "id": "30",
+      "name": "Nike Dunk Low Pacific Moss",
+      "brand": "Nike",
+      "price": 15152,
+      "image": "https://cdn-images.farfetch-contents.com/23/64/54/93/23645493_53561718_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        43,
+        44
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "31",
+      "name": "New Balance 530 White/Natural Indigo",
+      "brand": "New Balance",
+      "price": 14210,
+      "image": "https://cdn-images.farfetch-contents.com/19/52/47/28/19524728_43509669_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        44
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "32",
+      "name": "Nike P6000 White",
+      "brand": "Nike",
+      "price": 8129,
+      "image": "https://cdn-images.farfetch-contents.com/25/67/55/06/25675506_55711484_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "33",
+      "name": "Asics Gel-Kayano 14",
+      "brand": "Asics",
+      "price": 12775,
+      "image": "https://cdn-images.farfetch-contents.com/28/19/00/73/28190073_57668461_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        45
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "34",
+      "name": "Asics Gel-NYC",
+      "brand": "Asics",
+      "price": 12583,
+      "image": "https://cdn-images.farfetch-contents.com/29/54/57/35/29545735_58883042_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        42,
+        44,
+        45
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "35",
+      "name": "Fila Ray Tracer TR2",
+      "brand": "Fila",
+      "price": 11793,
+      "image": "https://cdn-images.farfetch-contents.com/22/91/69/10/22916910_53956669_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        44,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "36",
+      "name": "Asics Gel-Kayano 14 Tiffany",
+      "brand": "Asics",
+      "price": 16162,
+      "image": "https://cdn-images.farfetch-contents.com/29/03/51/37/29035137_58229295_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        42,
+        43,
+        44
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "37",
+      "name": "Reebok Classic Tabi",
+      "brand": "Reebok",
+      "price": 15685,
+      "image": "https://cdn-images.farfetch-contents.com/28/55/78/47/28557847_57896155_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        43,
+        45
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "38",
+      "name": "New Balance 530 Moonbeam/Silver Metallic",
+      "brand": "New Balance",
+      "price": 12460,
+      "image": "https://cdn-images.farfetch-contents.com/22/28/58/33/22285833_52098724_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        43
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "39",
+      "name": "Reebok x Maison Margiela Tabi Project 0 CL - Grey",
+      "brand": "Reebok",
+      "price": 12755,
+      "image": "https://cdn-images.farfetch-contents.com/28/55/83/85/28558385_57896254_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "40",
+      "name": "Puma Speedcat",
+      "brand": "Puma",
+      "price": 14487,
+      "image": "https://cdn-images.farfetch-contents.com/30/05/13/35/30051335_59145724_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        42,
+        44,
+        45
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "41",
+      "name": "Reebok A$AP",
+      "brand": "Reebok",
+      "price": 6211,
+      "image": "https://cdn-images.farfetch-contents.com/19/45/12/08/19451208_52626506_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        45
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "42",
+      "name": "Fila Casim",
+      "brand": "Fila",
+      "price": 12084,
+      "image": "https://cdn-images.farfetch-contents.com/19/70/68/97/19706897_44740728_1000.jpg",
+      "sizes": [
+        40,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "43",
+      "name": "Puma Palermo Puma White/Vapor Gray/Gum",
+      "brand": "Puma",
+      "price": 12739,
+      "image": "https://cdn-images.farfetch-contents.com/22/24/32/03/22243203_52079945_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "44",
+      "name": "Fila Ray Tracer TR2",
+      "brand": "Fila",
+      "price": 13091,
+      "image": "https://cdn-images.farfetch-contents.com/25/70/51/35/25705135_57357016_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        43,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "45",
+      "name": "New Balance 740",
+      "brand": "New Balance",
+      "price": 11312,
+      "image": "https://cdn-images.farfetch-contents.com/26/87/64/20/26876420_56589099_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "46",
+      "name": "Asics UB9-S Gel-DS Trainer 14",
+      "brand": "Asics",
+      "price": 17874,
+      "image": "https://cdn-images.farfetch-contents.com/29/28/77/92/29287792_58411360_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        44
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "47",
+      "name": "Asics GEL-1130 Black/Pure Silver",
+      "brand": "Asics",
+      "price": 7745,
+      "image": "https://cdn-images.farfetch-contents.com/22/31/17/01/22311701_52146466_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        42,
+        43,
+        44
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "48",
+      "name": "New Balance 9060 Black/Castlerock/Rain Cloud",
+      "brand": "New Balance",
+      "price": 6117,
+      "image": "https://cdn-images.farfetch-contents.com/19/20/14/93/19201493_46843437_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        42,
+        43
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "49",
+      "name": "Puma Straw Hat Luffy",
+      "brand": "Puma",
+      "price": 16905,
+      "image": "https://cdn-images.farfetch-contents.com/23/51/17/79/23511779_53486161_1000.jpg",
+      "sizes": [
+        40,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "50",
+      "name": "Asics GEL NYC Graphite Grey Black",
+      "brand": "Asics",
+      "price": 7240,
+      "image": "https://cdn-images.farfetch-contents.com/21/07/14/02/21071402_51386614_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        42,
+        43,
+        44
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "51",
+      "name": "Adidas Handball Spezial",
+      "brand": "Adidas",
+      "price": 10174,
+      "image": "https://cdn-images.farfetch-contents.com/20/19/51/09/20195109_50083239_1000.jpg",
+      "sizes": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "52",
+      "name": "Asics GEL-Kayano 14 Lemon Spark",
+      "brand": "Asics",
+      "price": 17531,
+      "image": "https://cdn-images.farfetch-contents.com/27/78/11/24/27781124_57659833_1000.jpg",
+      "sizes": [
+        40,
+        41,
+        43,
+        44,
+        45
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "53",
+      "name": "Adidas Superstar trainers",
+      "brand": "Adidas",
+      "price": 15186,
+      "image": "https://cdn-images.farfetch-contents.com/29/30/65/22/29306522_58363379_1000.jpg",
+      "sizes": [
+        38,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "54",
+      "name": "New Balance 530",
+      "brand": "New Balance",
+      "price": 10344,
+      "image": "https://cdn-images.farfetch-contents.com/22/79/02/85/22790285_52825901_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "55",
+      "name": "Nike V5 RNR Parachute Beige/Metallic Pewter ",
+      "brand": "Nike",
+      "price": 6669,
+      "image": "https://cdn-images.farfetch-contents.com/29/44/70/39/29447039_58424480_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        42,
+        43
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "56",
+      "name": "Fila Grant Hill 1 USA",
+      "brand": "Fila",
+      "price": 11200,
+      "image": "https://cdn-images.farfetch-contents.com/20/58/33/80/20583380_50508512_1000.jpg",
+      "sizes": [
+        38,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "57",
+      "name": "Reebok Classic Leather The Deathly Hallows",
+      "brand": "Reebok",
+      "price": 7532,
+      "image": "https://cdn-images.farfetch-contents.com/22/36/21/96/22362196_54317046_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        41,
+        42,
+        43
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "58",
+      "name": "Nike Dunk Low",
+      "brand": "Nike",
+      "price": 11444,
+      "image": "https://cdn-images.farfetch-contents.com/28/15/37/54/28153754_57682781_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "59",
+      "name": "Under Armour Infinite Pro",
+      "brand": "Under Armour",
+      "price": 16691,
+      "image": "https://cdn-images.farfetch-contents.com/25/72/11/04/25721104_57299967_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        42,
+        43,
+        44
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "60",
+      "name": "Reebok Zig Kinetica 2.5 Edge",
+      "brand": "Reebok",
+      "price": 6200,
+      "image": "https://cdn-images.farfetch-contents.com/23/75/76/31/23757631_53805629_1000.jpg",
+      "sizes": [
+        40,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "61",
+      "name": "Adidas Samba 62",
+      "brand": "Adidas",
+      "price": 6418,
+      "image": "https://cdn-images.farfetch-contents.com/29/73/07/66/29730766_58818723_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "62",
+      "name": "Fila Ray Tracer TR2",
+      "brand": "Fila",
+      "price": 13639,
+      "image": "https://cdn-images.farfetch-contents.com/25/70/51/41/25705141_57356924_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "63",
+      "name": "Adidas RS-X 772",
+      "brand": "Adidas Handball Spezial Light Blue",
+      "price": 6129,
+      "image": "https://cdn-images.farfetch-contents.com/20/75/33/02/20753302_50625669_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        43,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "64",
+      "name": "Asics Gel-Nimbus 9",
+      "brand": "Asics",
+      "price": 7036,
+      "image": "https://cdn-images.farfetch-contents.com/28/25/72/96/28257296_57933833_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        43,
+        44
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "65",
+      "name": "Under Armour Sonic 7 sneakers",
+      "brand": "Under Armour",
+      "price": 15030,
+      "image": "https://cdn-images.farfetch-contents.com/29/57/39/33/29573933_58550548_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "description": "Кроссовки Under Armour с отличной вентиляцией и поддержкой."
+    },
+    {
+      "id": "66",
+      "name": "Fila M Squad Mid",
+      "brand": "Fila",
+      "price": 12678,
+      "image": "https://cdn-images.farfetch-contents.com/23/52/30/71/23523071_58377507_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        42,
+        44
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "67",
+      "name": "Adidas Samba",
+      "brand": "Adidas",
+      "price": 16343,
+      "image": "https://cdn-images.farfetch-contents.com/22/20/71/51/22207151_47712692_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        42,
+        44,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "68",
+      "name": "Reebok  BB 4000 II",
+      "brand": "Reebok",
+      "price": 11026,
+      "image": "https://cdn-images.farfetch-contents.com/23/85/43/28/23854328_54002925_1000.jpg",
+      "sizes": [
+        39,
+        42,
+        43,
+        44,
+        45
+      ],
+      "description": "Модные кроссовки Reebok для спорта и города."
+    },
+    {
+      "id": "69",
+      "name": "Fila Kreatix",
+      "brand": "Fila",
+      "price": 7204,
+      "image": "https://cdn-images.farfetch-contents.com/29/62/28/54/29622854_59027115_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        41,
+        43,
+        44
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "70",
+      "name": "Puma Speedcat Archive Haute Coffee",
+      "brand": "Puma",
+      "price": 15185,
+      "image": "https://cdn-images.farfetch-contents.com/26/56/18/17/26561817_56117184_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "71",
+      "name": "Asics Gel-NYC sneakers",
+      "brand": "Asics",
+      "price": 6385,
+      "image": "https://cdn-images.farfetch-contents.com/29/63/35/83/29633583_58965666_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        42,
+        44
+      ],
+      "description": "Легендарные беговые кроссовки Asics для максимальной поддержки."
+    },
+    {
+      "id": "72",
+      "name": "New Balance 9060 Rain Cloud/Castlerock/White",
+      "brand": "New Balance",
+      "price": 14804,
+      "image": "https://cdn-images.farfetch-contents.com/19/95/76/98/19957698_44761462_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        43,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "73",
+      "name": "New Balance 9060 Sea Salt",
+      "brand": "New Balance",
+      "price": 10599,
+      "image": "https://cdn-images.farfetch-contents.com/19/69/53/32/19695332_50444479_1000.jpg",
+      "sizes": [
+        38,
+        40,
+        43,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "74",
+      "name": "Adidas Adizero Evo SL White/Black",
+      "brand": "Adidas",
+      "price": 11757,
+      "image": "https://cdn-images.farfetch-contents.com/27/65/34/39/27653439_58380974_1000.jpg",
+      "sizes": [
+        39,
+        41,
+        42,
+        43,
+        45
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "75",
+      "name": "Nike Dunk Low Retro SE",
+      "brand": "Nike",
+      "price": 14182,
+      "image": "https://cdn-images.farfetch-contents.com/26/75/19/10/26751910_57371848_1000.jpg",
+      "sizes": [
+        38,
+        41,
+        43,
+        44,
+        45
+      ],
+      "description": "Стильные и комфортные кроссовки от Nike для повседневной носки и спорта."
+    },
+    {
+      "id": "76",
+      "name": "Fila Modern",
+      "brand": "Fila",
+      "price": 10077,
+      "image": "https://cdn-images.farfetch-contents.com/19/70/82/03/19708203_45046789_1000.jpg",
+      "sizes": [
+        40,
+        41,
+        42,
+        44,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "77",
+      "name": "Adidas Samba LT Cloud White/Core Black",
+      "brand": "Adidas",
+      "price": 10839,
+      "image": "https://cdn-images.farfetch-contents.com/23/99/25/90/23992590_54034763_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        42,
+        43
+      ],
+      "description": "Ультрасовременные кроссовки Adidas с амортизацией Boost."
+    },
+    {
+      "id": "78",
+      "name": "Puma-180 Dye",
+      "brand": "Puma",
+      "price": 15761,
+      "image": "https://cdn-images.farfetch-contents.com/20/92/13/27/20921327_50824752_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        42,
+        44
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "79",
+      "name": "Fila Ray Tracer TR2",
+      "brand": "Fila",
+      "price": 6982,
+      "image": "https://cdn-images.farfetch-contents.com/25/70/48/14/25704814_57167790_1000.jpg",
+      "sizes": [
+        40,
+        41,
+        43,
+        44,
+        45
+      ],
+      "description": "Культовые кроссовки Fila в винтажном стиле."
+    },
+    {
+      "id": "80",
+      "name": "Puma Suede 2 One Piece",
+      "brand": "Puma",
+      "price": 11371,
+      "image": "https://cdn-images.farfetch-contents.com/23/51/51/52/23515152_53486064_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        43,
+        44
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "81",
+      "name": "Puma Arizona Retro",
+      "brand": "Puma",
+      "price": 14542,
+      "image": "https://cdn-images.farfetch-contents.com/29/92/17/85/29921785_59138666_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        41,
+        43,
+        44
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "82",
+      "name": "Puma Suede XL Rope",
+      "brand": "Puma",
+      "price": 16062,
+      "image": "https://cdn-images.farfetch-contents.com/24/66/71/39/24667139_54799152_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "description": "Кроссовки Puma — сочетание стиля и технологий."
+    },
+    {
+      "id": "83",
+      "name": "New Balance 990v4",
+      "brand": "New Balance",
+      "price": 12186,
+      "image": "https://cdn-images.farfetch-contents.com/21/58/66/61/21586661_52224739_1000.jpg",
+      "sizes": [
+        38,
+        39,
+        40,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    },
+    {
+      "id": "84",
+      "name": "New Balance 530 Arid Stone",
+      "brand": "New Balance",
+      "price": 9643,
+      "image": "https://cdn-images.farfetch-contents.com/28/34/00/99/28340099_57873291_1000.jpg",
+      "sizes": [
+        39,
+        40,
+        43,
+        44,
+        45
+      ],
+      "description": "Комфортные кроссовки New Balance с ретро-дизайном."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Иван Иванов",
+      "email": "ivan@example.com",
+      "password": "password123",
+      "cart": [
+        {
+          "id": "14",
+          "name": "New Balance Aimé Leon Dore",
+          "price": 10034,
+          "image": "https://cdn-images.farfetch-contents.com/14/81/44/88/14814488_23923840_1000.jpg",
+          "qty": 1,
+          "size": "42"
+        }
+      ],
+      "orders": [
+        {
+          "userId": "1",
+          "name": "adad",
+          "address": "adda",
+          "items": [
+            {
+              "id": "1",
+              "name": "Adidas Yeezy Boost 304",
+              "price": 17566,
+              "image": "https://sneakernews.com/wp-content/uploads/2022/09/adidas-yeezy-boost-350-v2-mx-grey-release-date-2.jpg",
+              "qty": 1,
+              "size": "40"
+            }
+          ],
+          "date": "2025-05-19T07:50:56.291Z"
+        },
+        {
+          "userId": "1",
+          "name": "dsdfcs",
+          "address": "sdvcds",
+          "items": [
+            {
+              "id": "17",
+              "name": "adidas Yeezy",
+              "price": 15076,
+              "image": "https://cdn-images.farfetch-contents.com/14/55/35/62/14553562_22157240_1000.jpg",
+              "qty": 1,
+              "size": "39"
+            },
+            {
+              "id": "19",
+              "name": "Asics Gel-Kayano 14 Pure Gold/Cold Moss",
+              "price": 17683,
+              "image": "https://cdn-images.farfetch-contents.com/25/14/55/44/25145544_57694211_1000.jpg",
+              "qty": 1,
+              "size": "43"
+            }
+          ],
+          "date": "2025-05-22T12:49:03.169Z"
+        }
+      ],
+      "owned_items": [
+        {
+          "id": "1",
+          "name": "Adidas Yeezy Boost 304",
+          "price": 17566,
+          "image": "https://sneakernews.com/wp-content/uploads/2022/09/adidas-yeezy-boost-350-v2-mx-grey-release-date-2.jpg",
+          "qty": 1,
+          "size": "40"
+        },
+        {
+          "id": "17",
+          "name": "adidas Yeezy",
+          "price": 15076,
+          "image": "https://cdn-images.farfetch-contents.com/14/55/35/62/14553562_22157240_1000.jpg",
+          "qty": 1,
+          "size": "39"
+        },
+        {
+          "id": "19",
+          "name": "Asics Gel-Kayano 14 Pure Gold/Cold Moss",
+          "price": 17683,
+          "image": "https://cdn-images.farfetch-contents.com/25/14/55/44/25145544_57694211_1000.jpg",
+          "qty": 1,
+          "size": "43"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Анна Смирнова",
+      "email": "anna@example.com",
+      "password": "pass456789",
+      "cart": [
+        {
+          "id": "3",
+          "qty": 1,
+          "size": 41
+        }
+      ],
+      "orders": [],
+      "owned_items": []
+    },
+    {
+      "id": "3",
+      "name": "Пётр Кузнецов",
+      "email": "petr@example.com",
+      "password": "mypassword",
+      "cart": [],
+      "orders": [
+        {
+          "userId": "3",
+          "name": "Пётр Кузнецов",
+          "address": "ул. Ленина, 25",
+          "items": [
+            {
+              "id": "1",
+              "name": "Nike Air Max 270",
+              "price": 11999,
+              "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,q_auto:eco/6c4b6e2c-7a3e-4e5e-8e9a-2e9e2e2e2e2e/air-max-270-mens-shoes-KkLcGR.png",
+              "qty": 2,
+              "size": 42
+            }
+          ],
+          "date": "2025-05-18T10:12:45.450Z"
+        }
+      ],
+      "owned_items": [
+        {
+          "id": "1",
+          "name": "Nike Air Max 270",
+          "price": 11999,
+          "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,q_auto:eco/6c4b6e2c-7a3e-4e5e-8e9a-2e9e2e2e2e2e/air-max-270-mens-shoes-KkLcGR.png",
+          "qty": 2,
+          "size": 42
+        }
+      ]
+    },
+    {
+      "id": "dd90",
+      "name": "daulet",
+      "email": "dauletbektasuly@gmail.com",
+      "password": "pass12345",
+      "cart": [],
+      "orders": [
+        {
+          "userId": "dd90",
+          "name": "dsdfcs",
+          "address": "dfbdfvfd",
+          "items": [
+            {
+              "id": "1",
+              "name": "Adidas Yeezy Boost 304",
+              "price": 17566,
+              "image": "https://sneakernews.com/wp-content/uploads/2022/09/adidas-yeezy-boost-350-v2-mx-grey-release-date-2.jpg",
+              "qty": 1,
+              "size": "40"
+            }
+          ],
+          "date": "2025-05-19T14:13:43.130Z"
+        },
+        {
+          "userId": "dd90",
+          "name": "sssss",
+          "address": "dssddsds",
+          "items": [
+            {
+              "id": "4",
+              "name": "Asicis Gel-Kayano 837",
+              "price": 6056,
+              "image": "https://cdn-images.farfetch-contents.com/20/76/79/16/20767916_50868138_1000.jpg",
+              "qty": 1,
+              "size": "43"
+            }
+          ],
+          "date": "2025-05-22T15:32:44.500Z"
+        }
+      ],
+      "owned_items": [
+        {
+          "id": "1",
+          "name": "Adidas Yeezy Boost 304",
+          "price": 17566,
+          "image": "https://sneakernews.com/wp-content/uploads/2022/09/adidas-yeezy-boost-350-v2-mx-grey-release-date-2.jpg",
+          "qty": 1,
+          "size": "40"
+        },
+        {
+          "id": "4",
+          "name": "Asicis Gel-Kayano 837",
+          "price": 6056,
+          "image": "https://cdn-images.farfetch-contents.com/20/76/79/16/20767916_50868138_1000.jpg",
+          "qty": 1,
+          "size": "43"
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "1001",
+      "userId": "3",
+      "name": "Пётр Кузнецов",
+      "address": "ул. Ленина, 25",
+      "items": [
+        {
+          "id": "1",
+          "name": "Nike Air Max 270",
+          "price": 11999,
+          "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,q_auto:eco/6c4b6e2c-7a3e-4e5e-8e9a-2e9e2e2e2e2e/air-max-270-mens-shoes-KkLcGR.png",
+          "qty": 2,
+          "size": 42
+        }
+      ],
+      "date": "2025-05-18T10:12:45.450Z"
+    },
+    {
+      "id": "1002",
+      "userId": "57db",
+      "name": "Test",
+      "address": "adad",
+      "items": [
+        {
+          "id": "2",
+          "name": "Adidas Yeezy Boost 350",
+          "price": 15999,
+          "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/7e7e7e7e7e7e7e7e7e7e7e7e7e7e7e7e_9366/Yeezy_Boost_350_V2_Shoes_White_EG7491_01_standard.jpg",
+          "qty": 1,
+          "size": 38
+        }
+      ],
+      "date": "2025-05-19T07:39:32.750Z"
+    },
+    {
+      "id": "a904",
+      "userId": "1",
+      "name": "adad",
+      "address": "adda",
+      "items": [
+        {
+          "id": "1",
+          "name": "Adidas Yeezy Boost 304",
+          "price": 17566,
+          "image": "https://sneakernews.com/wp-content/uploads/2022/09/adidas-yeezy-boost-350-v2-mx-grey-release-date-2.jpg",
+          "qty": 1,
+          "size": "40"
+        }
+      ],
+      "date": "2025-05-19T07:50:56.291Z"
+    },
+    {
+      "id": "dc12",
+      "userId": "dd90",
+      "name": "daulet",
+      "address": "ssss",
+      "items": [
+        {
+          "id": "2",
+          "name": "Asics Yeezy Boost 241",
+          "price": 17562,
+          "image": "https://example.com/images/2.jpg",
+          "qty": 1,
+          "size": "38"
+        }
+      ],
+      "date": "2025-05-19T10:00:22.282Z"
+    },
+    {
+      "id": "70ca",
+      "userId": "dd90",
+      "name": "dsdfcs",
+      "address": "dfbdfvfd",
+      "items": [
+        {
+          "id": "1",
+          "name": "Adidas Yeezy Boost 304",
+          "price": 17566,
+          "image": "https://sneakernews.com/wp-content/uploads/2022/09/adidas-yeezy-boost-350-v2-mx-grey-release-date-2.jpg",
+          "qty": 1,
+          "size": "40"
+        }
+      ],
+      "date": "2025-05-19T14:13:43.130Z"
+    },
+    {
+      "id": "f3b4",
+      "userId": "1",
+      "name": "dsdfcs",
+      "address": "sdvcds",
+      "items": [
+        {
+          "id": "17",
+          "name": "adidas Yeezy",
+          "price": 15076,
+          "image": "https://cdn-images.farfetch-contents.com/14/55/35/62/14553562_22157240_1000.jpg",
+          "qty": 1,
+          "size": "39"
+        },
+        {
+          "id": "19",
+          "name": "Asics Gel-Kayano 14 Pure Gold/Cold Moss",
+          "price": 17683,
+          "image": "https://cdn-images.farfetch-contents.com/25/14/55/44/25145544_57694211_1000.jpg",
+          "qty": 1,
+          "size": "43"
+        }
+      ],
+      "date": "2025-05-22T12:49:03.169Z"
+    },
+    {
+      "id": "45cb",
+      "userId": "dd90",
+      "name": "sssss",
+      "address": "dssddsds",
+      "items": [
+        {
+          "id": "4",
+          "name": "Asicis Gel-Kayano 837",
+          "price": 6056,
+          "image": "https://cdn-images.farfetch-contents.com/20/76/79/16/20767916_50868138_1000.jpg",
+          "qty": 1,
+          "size": "43"
+        }
+      ],
+      "date": "2025-05-22T15:32:44.500Z"
+    }
+  ]
+}
